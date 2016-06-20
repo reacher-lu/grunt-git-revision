@@ -1,4 +1,4 @@
-# grunt-git-revision
+# grunt-git-revision 
 
 > Get current Git revision
 
